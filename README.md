@@ -124,6 +124,6 @@ Available on request:
 
 ## ✔ License
 
-MIT License. Free to modify and distribute.
+GPL
 
 ---
