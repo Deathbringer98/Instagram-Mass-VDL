@@ -124,6 +124,6 @@ Available on request:
 
 ## ✔ License
 
-GPL
+GNU
 
 ---
